@@ -1,3 +1,11 @@
+# Write up
+Here is a link to my writeup: https://docs.google.com/document/d/10RI5FJ5HYn7emlUwPXYUl11MIlLHDUAt3juctzGRPH4/edit?usp=sharing
+
+
+
+
+
+
 # Order-processing system — student starter
 
 This application intentionally contains defects. Your assignment has three parts only:
